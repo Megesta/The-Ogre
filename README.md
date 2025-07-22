@@ -17,8 +17,3 @@ This bot wasnt meant to do many different things, but now it does a lot. I'll li
 * Connected the **GitHub** page to my own PC through **GitHub Deckstop**;
 * Cooked this `README.md` file so you'd know what to expect;
 * Cooked the `LICENSE.md` file so you don't care about being chased by me with wooden club.
-### About to do:
-* Make the common discord bot structure;
-* Add some of the easiest commands;
-* Add some of the easiest events.
-# That's the first version!
