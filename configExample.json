@@ -1,0 +1,14 @@
+{
+    "token": "None",
+    "guildID": "None",
+    "clientID": "None",
+    "serverRoleIDs": {
+        "ownerRoleID": "None",
+        "clientRoleID": "None",
+        "moderatorRoleID": "None",
+        "memberRoleIDs": [
+            "None"
+        ],
+        "bannedRoleID": "None"
+    }
+}
