@@ -10,7 +10,7 @@ const commandFolder = path.join(scripts, 'commands');
 const eventFolder = path.join(scripts, 'events');
 
 // Intents can be updated if your bot refuses to do some actions, such as not reading user messages and etc.
-const Intents = [ GatewayIntentBits.Guilds ];
+const Intents = [ GatewayIntentBits.Guilds, GatewayIntentBits.GuildMembers ];
 // Setting up the discord client
 const client = new Client({ intents: Intents });
 client.commands = new Collection();

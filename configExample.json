@@ -6,9 +6,8 @@
         "ownerRoleID": "None",
         "clientRoleID": "None",
         "moderatorRoleID": "None",
-        "memberRoleIDs": [
-            "None"
-        ],
         "bannedRoleID": "None"
-    }
+    },
+    "logsChannelID": "None",
+    "reportsChannelID": "None"
 }
